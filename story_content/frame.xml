@@ -90,6 +90,13 @@
           <option name="submit" value="icon" />
         </options>
       </optiongroup>
+      <optiongroup name="courseOptions">
+        <options>
+          <option name="thumbnailEnabled" value="true" />
+          <option name="thumbnailDisplayName" value="FP2.png" />
+          <option name="thumbnailUrl" value="story_content/5dYPA6qUlq2.png" />
+        </options>
+      </optiongroup>
     </optiongroups>
   </control_options>
   <control_layouts>
